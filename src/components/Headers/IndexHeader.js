@@ -39,13 +39,13 @@ function IndexHeader() {
               className="n-logo"
               src={require("assets/img/now-logo.png")}
             ></img>
-            <h1 className="h1-seo">EVALUACION PARCIAL 2</h1>
-            <h3>Bonilla Dominguez Maria Fernanda</h3>
+            <h1 className="h1-seo">EVALUACION PARCIAL II</h1>
+            <h3>Bonilla Dominguez Maria Fernandaa</h3>
           </div>
           <h6 className="category category-absolute">
             2025.........{" "}
            
-            UNIVERSIDAD TECNOLOGICA DE DURANGO{" "}
+            UNIVERSIDAD TECNOLOGICA DE DURANGOO{" "}
             
              
             
